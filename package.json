@@ -1,0 +1,25 @@
+{
+  "name": "generator-yuleblinker",
+  "version": "1.0.0",
+  "description": "Yeoman generator to create projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuleblinker/generator-yuleblinker.git"
+  },
+  "author": "Andrew Craigie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yuleblinker/generator-yuleblinker/issues"
+  },
+  "homepage": "https://github.com/Yuleblinker/generator-yuleblinker#readme",
+  "files":[
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.3"
+  }
+}
