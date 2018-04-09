@@ -16,7 +16,7 @@
     "url": "https://github.com/Yuleblinker/generator-yuleblinker/issues"
   },
   "homepage": "https://github.com/Yuleblinker/generator-yuleblinker#readme",
-  "files":[
+  "files": [
     "generators"
   ],
   "dependencies": {
